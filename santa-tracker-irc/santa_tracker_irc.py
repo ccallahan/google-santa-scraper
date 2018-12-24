@@ -1,4 +1,5 @@
-# santa-tracker-irc
+# google-santa-scraper
+# by Chance Callahan
 # Scrapes Google to track Santa and spits out his location on IRC.
 
 from requests import get
